@@ -1,7 +1,7 @@
 # content-writer-services-website
 Custom WordPress website designed and developed from scratch for a technical content agency. Focused on clean UI/UX, mobile responsiveness, SEO optimization, and performance to deliver a high-converting, professional online presence.
 
-# Content Writing organization Web app – [Live Website](https://eastandwestagency.com/)
+# Content Writing organization Web app – [Live Website](https://engineeringcopywriter.com/)
 
 ## Overview
 This project involved building a fully custom WordPress website for Engineering Copywriter—a niche content agency specializing in technical and engineering industries. The website was developed with a tailored layout using Elementor Pro, ensuring both flexibility for content management and an engaging experience for users.
@@ -29,7 +29,7 @@ The focus was on clean visual hierarchy, conversion-focused layout, responsive d
 - Yoast SEO
 
 ## Live Website
-👉 [Visit Live Website](https://eastandwestagency.com/)
+👉 [Visit Live Website](https://engineeringcopywriter.com/)
 
 ## My Role
 - Full website design & development
