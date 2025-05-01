@@ -1,6 +1,3 @@
-# content-writer-services-website
-Custom WordPress website designed and developed from scratch for a technical content agency. Focused on clean UI/UX, mobile responsiveness, SEO optimization, and performance to deliver a high-converting, professional online presence.
-
 # Content Writing organization Web app – [Live Website](https://engineeringcopywriter.com/)
 
 ## Overview
