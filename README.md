@@ -37,4 +37,4 @@ The focus was on clean visual hierarchy, conversion-focused layout, responsive d
 - Final deployment and QA testing
 
 ## More Projects:
-Check out my other work on my [GitHub Profile](https://github.com/saifwp)
+Check out my other work on my [GitHub Profile](https://github.com/sharifwp)
